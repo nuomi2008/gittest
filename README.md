@@ -1,6 +1,2 @@
 # gittest
-just a test
-
-test4test
-nnnnmmmmmmmmmmmmmmm
-sssssssss
+newtest
